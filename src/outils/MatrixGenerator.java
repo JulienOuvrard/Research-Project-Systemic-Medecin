@@ -122,8 +122,8 @@ public class MatrixGenerator {
 		compound_energy.affiche();
 	}
 	
-	public void generateCSV() throws IOException{
-		CSVWriter writer1 =new CSVWriter(new FileWriter(System.getProperty("user.dir")+"/csv/masses.csv"), ',');
+	public void generateCSV(String folder) throws IOException{
+		CSVWriter writer1 =new CSVWriter(new FileWriter(folder+"/masses.csv"), ',');
 		System.out.println("[CSV] Writing mass");
 		String[] ids=new String[kegg_ids.length+1];
 		ids[0]="";
@@ -138,7 +138,7 @@ public class MatrixGenerator {
 		writer1.close();
 		System.out.println("[CSV] mass finished");
 		System.out.println("[CSV] Writing energy");
-		CSVWriter writer2 =new CSVWriter(new FileWriter(System.getProperty("user.dir")+"/csv/energies.csv"), ',');
+		CSVWriter writer2 =new CSVWriter(new FileWriter(folder+"/energies.csv"), ',');
 		writer2.writeNext(kegg_ids);
 		String[][] energies=compound_energy.toStringArray();
 		writer2.writeNext(energies[0]);
