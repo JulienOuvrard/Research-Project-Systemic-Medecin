@@ -12,10 +12,10 @@ import outils.MatrixGenerator;
 public class Main {
 
 	public static void main(String[] args) throws XMLStreamException, IOException, EngineException {
-		String model="resources/MODEL1109130000.xml";
+		String model=System.getProperty("user.dir")+"/resources/MODEL1109130000.xml";
 		
-		String kegg_energy="resources/kegg-compounds-alberty-ph7-0.rdf";
-		String kegg_cpd="resources/kegg.cpd.rdf";
+		String kegg_energy=System.getProperty("user.dir")+"/resources/kegg-compounds-alberty-ph7-0.rdf";
+		String kegg_cpd=System.getProperty("user.dir")+"/resources/kegg.cpd.rdf";
 		String[] files = {kegg_energy,kegg_cpd};
 		
 		ListGenerator lgen=new ListGenerator(model);
@@ -27,7 +27,7 @@ public class Main {
 		
 		MatrixGenerator gen=new MatrixGenerator(files,kegg_ids,elements);
 		gen.generate();
-		gen.afficheMatrices();
+		gen.generateCSV();
 	}
 
 }

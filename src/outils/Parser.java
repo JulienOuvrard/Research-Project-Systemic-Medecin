@@ -14,7 +14,6 @@ public class Parser {
 	public void explodeFormula(String formule){
 		int i=0;
 		formule=unquote(formule);
-		//formule=(formule.contains("(")) ? "" : formule;
 		formule+=" ";
 		float coeff_sup=0;
 		do{

@@ -1,5 +1,10 @@
 package outils;
 
+import java.io.FileWriter;
+import java.io.IOException;
+
+import com.opencsv.CSVWriter;
+
 import outils.Matrix;
 import outils.Parser;
 import fr.inria.acacia.corese.exceptions.EngineException;
@@ -72,6 +77,7 @@ public class MatrixGenerator {
 	}
 	
 	public void generate() throws EngineException{
+		System.out.println("[Matrix] generation started");
 		Graph graph= Graph.create(true);
 		Load ld=Load.create(graph);
 		for(String file: files){
@@ -102,7 +108,7 @@ public class MatrixGenerator {
 			}
 			k_index++;
 		}
-		
+		System.out.println("[Matrix] generation finished");
 	}
 	
 	public void afficheMatrices(){
@@ -114,5 +120,29 @@ public class MatrixGenerator {
 		System.out.println(" MATRICE DES ENERGIES ");
 		System.out.println("===========");
 		compound_energy.affiche();
+	}
+	
+	public void generateCSV() throws IOException{
+		CSVWriter writer1 =new CSVWriter(new FileWriter(System.getProperty("user.dir")+"/csv/masses.csv"), ',');
+		System.out.println("[CSV] Writing mass");
+		String[] ids=new String[kegg_ids.length+1];
+		ids[0]="";
+		for(int i=1;i<kegg_ids.length+1;i++){
+			ids[i]=kegg_ids[i-1];
+		}
+		writer1.writeNext(ids);
+		String[][] masses=compound_mass.toStringArrayWithElements(elements);
+		for(int k=0;k<elements.length;k++){
+			writer1.writeNext(masses[k]);
+		}
+		writer1.close();
+		System.out.println("[CSV] mass finished");
+		System.out.println("[CSV] Writing energy");
+		CSVWriter writer2 =new CSVWriter(new FileWriter(System.getProperty("user.dir")+"/csv/energies.csv"), ',');
+		writer2.writeNext(kegg_ids);
+		String[][] energies=compound_energy.toStringArray();
+		writer2.writeNext(energies[0]);
+		writer2.close();
+		System.out.println("[CSV] energy finished");
 	}
 }

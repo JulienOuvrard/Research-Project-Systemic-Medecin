@@ -15,7 +15,7 @@ import org.sbml.jsbml.Species;
 
 public class ListGenerator {
 
-	private String filename;
+	private String filename="";
 	private SBMLReader reader;
 	private SBMLDocument document;
 	private Model model;
@@ -26,6 +26,7 @@ public class ListGenerator {
 	public ListGenerator(String file) throws XMLStreamException, IOException{
 		filename=file;
 		reader=new SBMLReader();
+		System.out.println("[SBML] Reading ...");
 		document=reader.readSBML(filename);
 		model = document.getModel();
 		k_ids=new HashMap<String,String>();
@@ -34,7 +35,7 @@ public class ListGenerator {
 	}
 	
 	public void generate(){
-	
+		System.out.println("[Identifier Lists] generation started");
 		ListOf<Species> species = model.getListOfSpecies();
 		
 		for(int i = 0; i<species.getChildCount();i++){
@@ -57,6 +58,7 @@ public class ListGenerator {
 				}
 			}
 		}
+		System.out.println("[Identifier Lists] generation finished");
 	}
 
 	public Map<String, String> getK_ids() {
