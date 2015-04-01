@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	
+	xmlns:projetter="http://localhost:9091/project/projetter"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00001">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00001</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">H2O</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-161.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00002">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00002</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">ATP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2328.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00003">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00003</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">NAD+</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">979.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00004">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00004</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">NADH</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1037.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00005">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00005</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">NADPH</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">161.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00006">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00006</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">NADP+</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">101.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00007">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00007</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxygen</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">16.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00008">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00008</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">ADP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1461.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00009">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00009</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Orthophosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1063.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00010">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00010</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1148.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00011">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00011</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">CO2</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-386.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00013">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00013</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Diphosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1942.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00014">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00014</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">NH3</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">70.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00016">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00016</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">FAD</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1166.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00020">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00020</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">AMP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-591.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00022">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00022</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Pyruvate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-359.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00024">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00024</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1083.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00025">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00025</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Glutamate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-396.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00026">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00026</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">2-Oxoglutarate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-645.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00027">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00027</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hydrogen peroxide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-58.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00031">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00031</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Glucose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-463.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00033">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00033</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-256.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00036">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00036</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxaloacetate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-720.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00037">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00037</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-191.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00041">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00041</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Alanine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-107.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00042">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00042</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Succinate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-542.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00048">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00048</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glyoxylate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-431.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00049">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00049</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Aspartate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-470.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00051">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00051</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glutathione</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">589.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00058">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00058</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Formate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-313.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00059">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00059</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Sulfate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-747.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00061">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00061</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">FMN</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">713.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00064">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00064</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Glutamine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-151.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00065">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00065</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Serine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-247.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00067">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00067</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Formaldehyde</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-46.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00073">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00073</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Methionine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-88.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00074">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00074</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Phosphoenolpyruvate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1195.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00078">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00078</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Tryptophan</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">337.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00079">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00079</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Phenylalanine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">207.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00080">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00080</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">H+</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00082">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00082</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Tyrosine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00084">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00084</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetaldehyde</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">11.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00085">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00085</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Fructose 6-phosphoric acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1349.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00086">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00086</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Urea</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-52.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00087">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00087</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Sulfur</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00088">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00088</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nitrite</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-32.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00089">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00089</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Sucrose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-735.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00091">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00091</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Succinyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">794.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00092">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00092</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-glucose 6-phosphate-2-</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1352.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00093">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00093</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">sn-Glycerol 3-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1098.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00094">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00094</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Sulfite</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-491.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00095">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00095</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-arabino-Hexulose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-463.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00097">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00097</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Cysteine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-75.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00100">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00100</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Propanoyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1168.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00103">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00103</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Cori ester</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1345.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00104">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00104</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">IDP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1713.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00111">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00111</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycerone phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1110.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00116">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00116</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycerol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-195.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00117">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00117</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Ribose-5-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1260.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00118">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00118</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Glyceraldehyde 3-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1102.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00119">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00119</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">5-Phospho-alpha-D-ribose 1-diphosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2999.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00121">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00121</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Ribose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-361.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00122">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00122</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Fumarate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-528.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00123">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00123</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Leucine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">137.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00124">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00124</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Galactose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-456.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00125">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00125</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ferricytochrome c</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-5.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00126">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00126</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ferrocytochrome c</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-27.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00127">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00127</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glutathione disulfide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1128.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00130">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00130</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">IMP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-844.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00132">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00132</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Methanol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-24.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00138">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00138</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Reduced ferredoxin</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">38.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00139">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00139</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxidized ferredoxin</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-0.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00147">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00147</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Adenine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">499.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00149">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00149</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">(S)-Malate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-694.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00152">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00152</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Asparagine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-224.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00158">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00158</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Citrate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-980.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00159">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00159</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Mannose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-457.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00160">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00160</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycolate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-418.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00164">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00164</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetoacetate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-294.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00168">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00168</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hydroxypyruvate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-496.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00169">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00169</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Carbamoyl phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1169.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00181">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00181</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Xylose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-375.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00183">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00183</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Valine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">56.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00184">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00184</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycerone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-224.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00185">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00185</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Cellobiose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-756.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00186">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00186</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">(S)-Lactate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-328.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00188">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00188</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Threonine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-189.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00197">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00197</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">3-Phospho-D-glycerate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1360.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00198">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00198</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Glucono-1,5-lactone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-526.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00199">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00199</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Ribulose-5-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1259.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00207">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00207</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">66.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00208">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00208</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Maltose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-745.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00209">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00209</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxalate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-676.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00212">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00212</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Adenosine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">295.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00214">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00214</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Thymidine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">313.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00216">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00216</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Arabinose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-367.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00218">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00218</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Methylamine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">185.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00224">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00224</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Adenylyl sulfate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1092.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00227">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00227</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetyl phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1118.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00233">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00233</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">4-Methyl-2-oxopentanoate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-106.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00236">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00236</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">3-Phospho-D-glyceroyl phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2219.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00237">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00237</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">CO</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-119.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00243">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00243</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Lactose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-738.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00244">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00244</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nitrate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-109.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00245">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00245</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Taurine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-283.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00246">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00246</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Butanoic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-89.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00247">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00247</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Sorbose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-459.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00249">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00249</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hexadecanoic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">908.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00252">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00252</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Isomaltose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-758.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00257">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00257</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Gluconic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-714.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00258">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00258</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Glycerate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-473.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00262">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00262</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hypoxanthine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">240.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00275">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00275</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Mannose-6-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1348.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00282">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00282</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hydrogen</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">93.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00283">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00283</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hydrogen sulfide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">46.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00288">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00288</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">HCO3-</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-550.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00294">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00294</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Inosine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00300">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00300</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Creatine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">80.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00305">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00305</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Magnesium cation</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00309">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00309</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Ribulose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-359.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00310">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00310</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Xylulose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-369.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00311">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00311</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Isocitrate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-973.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00313">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00313</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxalyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">643.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00332">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00332</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Acetoacetyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1061.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00342">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00342</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Thioredoxin</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00343">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00343</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Thioredoxin disulfide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00354">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00354</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Fructose-1,6-bisphosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-2234.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00366">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00366</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Urate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-213.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00376">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00376</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Retinal</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1055.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00379">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00379</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Xylitol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-331.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00387">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00387</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Guanosine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">490.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00390">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00390</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ubiquinol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3377.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00392">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00392</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Mannitol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-414.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00399">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00399</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ubiquinone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3392.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00407">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00407</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Isoleucine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">146.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00417">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00417</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">cis-Aconitate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-809.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00423">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00423</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">trans-Cinnamate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">134.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00455">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00455</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nicotinamide D-ribonucleotide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1364.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00463">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00463</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Indole</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">487.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00469">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00469</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ethanol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00473">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00473</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Retinol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1102.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00474">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00474</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ribitol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-322.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00476">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00476</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Lyxose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-372.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00491">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00491</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Cystine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-214.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00533">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00533</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nitric oxide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">86.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00543">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00543</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Dimethylamine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">297.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00565">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00565</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Trimethylamine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">413.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00575">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00575</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">3',5'-Cyclic AMP</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-376.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00577">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00577</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Glyceraldehyde</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-213.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00620">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00620</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Ribose-1-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1252.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00631">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00631</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">2-Phospho-D-glycerate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1354.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00636">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00636</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Mannos-1-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1343.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00644">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00644</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">d-mannitol-1-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1306.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00673">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00673</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">2-Deoxy-D-ribose-5-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1112.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00697">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00697</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nitrogen</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00791">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00791</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Creatinine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">240.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00794">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00794</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Sorbitol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-418.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00849">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00849</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Ethyl acetate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-36.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00887">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00887</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Nitrous oxide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">104.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C00920">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C00920</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">CoA-glutathione</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1848.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01005">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01005</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">O-Phospho-L-serine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1137.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01013">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01013</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">3-Hydroxypropanoate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-330.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01083">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01083</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">alpha,alpha-Trehalose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-753.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01096">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01096</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Sorbitol 6-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1306.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01112">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01112</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Arabinose-5-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1262.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01113">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01113</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">6-Phospho-D-galactose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1345.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01127">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01127</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">4-Hydroxy-2-oxoglutaric acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-823.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01236">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01236</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">6-Phospho-D-glucono-1,5-lactone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1410.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01352">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01352</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">FADH2</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1202.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01384">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01384</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Maleic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-519.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01412">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01412</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Butanal</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">171.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01417">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01417</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Cyanate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-98.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01438">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01438</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Methane</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01507">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01507</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">L-Iditol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-417.0</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01563">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01563</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Carbamate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-302.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01845">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01845</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Propan-2-ol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">116.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01847">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01847</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Reduced FMN</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">750.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C01879">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C01879</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Pidolic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-243.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C02037">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C02037</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Glycylglycine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-218.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C02084">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C02084</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Tetrathionate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1024.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C02226">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C02226</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">2-Methylmaleate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-452.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C02557">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C02557</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">DL-Methylmalonyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">801.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C02612">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C02612</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">(R)-2-Methylmalate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-620.2</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C03196">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C03196</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">(S)-2-Hydroxyglutarate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-616.5</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C03232">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C03232</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">3-Phosphonooxypyruvate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1378.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C03383">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C03383</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Galactono-1,4-lactone</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-528.4</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C03384">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C03384</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">D-Galactose-1-phosphate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-1344.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C04348">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C04348</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">(3S)-3-Carboxy-3-hydroxypropanoyl-CoA</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">640.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C05361">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C05361</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Hydrazine</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">278.8</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C05379">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C05379</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Oxalosuccinate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-990.6</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C05572">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C05572</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">4-Oxoglutaramate</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-370.3</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C05979">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C05979</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Propane-1-ol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">125.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C05984">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C05984</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">2-Hydroxybutanoic acid</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-243.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C06142">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C06142</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">1-Butanol</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">205.1</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C07064">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C07064</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Lactulose</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-745.9</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://bio2rdf.org/cpd:C09306">
+	<rdf:type rdf:resource="http://localhost:9091/projetter/kegg-compounds-alberty-ph6-5-csv#kegg-compounds-alberty-ph6-5-csv"/>
+	<KEGG xmlns="http://dbpedia.org/resource/">C09306</KEGG>
+	<title xmlns="http://purl.org/dc/elements/1.1/">Sulfur dioxide</title>
+	<deltaGPrime0 xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">-300.7</deltaGPrime0>
+	<ph xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">6.5</ph>
+	<ionicStrength xmlns="http://www.biopax.org/release/biopax-level3.owl#" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ionicStrength>
+	<temperature xmlns="http://dbpedia.org/ontology/" rdf:datatype="http://www.w3.org/2001/XMLSchema#double">298.15</temperature>
+</rdf:Description>
+
+</rdf:RDF>
