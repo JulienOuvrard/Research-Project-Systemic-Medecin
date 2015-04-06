@@ -3,6 +3,8 @@ package outils;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import org.apache.commons.io.FilenameUtils;
+
 import com.opencsv.CSVWriter;
 
 import outils.Matrix;
@@ -111,6 +113,52 @@ public class MatrixGenerator {
 		System.out.println("[Matrix] generation finished");
 	}
 	
+	public String makeQuery_NoEnergy(String id, String nom, String formule){
+		String prefix = "prefix bpax: <http://www.biopax.org/release/biopax-level3.owl#>"
+				+ "prefix dc: <http://purl.org/dc/elements/1.1/> "
+				+ "prefix btr: <http://bio2rdf.org/ns/bio2rdf#> ";
+
+		id = (id=="") ? "?id": "\"cpd:"+id+"\"";
+		nom = (nom=="") ? "?nom": "\""+nom+"\"";
+		formule = (formule=="") ? "?formule": "\""+formule+"\"";
+		
+		String ret="select ?nom ?formule ?energie "
+				+ "where { "
+				+ "?s  dc:identifier "+id+". "
+				+ "FILTER NOT EXISTS {?s bpax:deltaGPrime0 ?energie}"
+				+ "}";
+		
+		return prefix+ret;
+	}
+	
+	public void generate_NoEnergy() throws EngineException{
+		System.out.println("[List of NoEnergy] generation started");
+		Graph graph= Graph.create(true);
+		Load ld=Load.create(graph);
+		for(String file: files){
+			ld.load(file);
+		}
+		
+		QueryProcess exec = QueryProcess.create(graph);
+
+		for(String s:kegg_ids){
+			String query=makeQuery_NoEnergy(s,"","");
+			
+			Mappings map= exec.query(query);
+			for(Mapping m: map){
+				for(Node var : m.getQueryNodes()){
+					if(var.getLabel()!=null){
+						if(!compound_no_energy.contains(s)){
+							compound_no_energy.add(s);							
+						}
+					}
+					
+				}
+			}
+		}
+		System.out.println("[List of NoEnergy] generation finished");
+	}
+	
 	public void afficheMatrices(){
 		System.out.println("===========");
 		System.out.println(" MATRICE DES MASSES ");
@@ -122,8 +170,9 @@ public class MatrixGenerator {
 		compound_energy.affiche();
 	}
 	
-	public void generateCSV(String folder) throws IOException{
-		CSVWriter writer1 =new CSVWriter(new FileWriter(folder+"/masses.csv"), ',');
+	public void generateCSV(String model, String folder) throws IOException{
+		String model_name = FilenameUtils.getBaseName(model);
+		CSVWriter writer1 =new CSVWriter(new FileWriter(folder+"/"+model_name+"_masses.csv"), ',');
 		System.out.println("[CSV] Writing mass");
 		String[] ids=new String[kegg_ids.length+1];
 		ids[0]="";
@@ -138,11 +187,29 @@ public class MatrixGenerator {
 		writer1.close();
 		System.out.println("[CSV] mass finished");
 		System.out.println("[CSV] Writing energy");
-		CSVWriter writer2 =new CSVWriter(new FileWriter(folder+"/energies.csv"), ',');
+		CSVWriter writer2 =new CSVWriter(new FileWriter(folder+"/"+model_name+"_energies.csv"), ',');
 		writer2.writeNext(kegg_ids);
 		String[][] energies=compound_energy.toStringArray();
 		writer2.writeNext(energies[0]);
 		writer2.close();
 		System.out.println("[CSV] energy finished");
+		System.out.println("[CSV] Writing element without energy");
+		CSVWriter writer3 =new CSVWriter(new FileWriter(folder+"/"+model_name+"_elements_no_energies.csv"), ',');
+		String[] no_energies=compound_no_energy.toArray(new String[compound_no_energy.size()]);
+		writer3.writeNext(no_energies);
+		writer3.close();
+		System.out.println("[CSV] element without energy finished");
+	}
+	
+	public void afficheListe(){
+		System.out.println("===========");
+		System.out.println(" ELEMENTS SANS ENERGIE ");
+		System.out.println("===========");
+		System.out.println("--------------");
+		System.out.print("|");
+		for(String st:compound_no_energy){
+			System.out.print(st+"\t |");
+		}
+		System.out.println("--------------");
 	}
 }

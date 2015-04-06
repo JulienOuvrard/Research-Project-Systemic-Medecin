@@ -30,6 +30,7 @@ public class Main {
 		
 		MatrixGenerator gen=new MatrixGenerator(files,kegg_ids,elements);
 		gen.generate();
+		gen.generate_NoEnergy();
 		gen.generateCSV(csv_folder);
 	}
 
