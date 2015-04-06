@@ -1,12 +1,19 @@
 # Research-Project-Systemic-Medecin
+Short name : SysMed  
 A tool helping people to create CSV of the mass and energy of elements contained in a SMBL file.
 
+## Usage
+1) Download the zip of the project or take a clone  
+2) Go to the jar folder  
+3) Make the command : java -r SysMed.jar -h to know the options  
+
 ## Tools used
-1) SPARQL Language  
-2) SPARQL Endpoint : Corese  
-3) Java Language  
+* SPARQL Language  
+* SPARQL Endpoint : Corese  
+* Java Language  
 
 ## Librairies used
-1) LibSbml  
-2) Corese API  
-3) Opencsv  
+* LibSbml  
+* Corese API  
+* Opencsv  
+* Apache Commons CLI
