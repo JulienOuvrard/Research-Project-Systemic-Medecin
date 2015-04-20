@@ -162,7 +162,7 @@ public class MatrixGenerator {
 		name = (name=="") ? "?name": "\""+name+"\"";
 		formula = (formula=="") ? "?formula": "\""+formula+"\"";
 		
-		String ret="select ?nom ?formule ?energy "
+		String ret="select ?name ?formula ?energy "
 				+ "where { "
 				+ "?s  dc:identifier "+id+". "
 				+ "FILTER NOT EXISTS {?s bpax:deltaGPrime0 ?energy}"
