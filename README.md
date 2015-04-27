@@ -1,6 +1,6 @@
-# Research-Project-Systemic-Medecin
-Short name : SysMed  
-A tool helping people to create CSV of the mass and energy of elements contained in a SMBL file.
+# SysMed
+SysMed is a research project made with the ComBi Team of the LINA.  
+It's a tool helping people to create CSV of the mass and energy of elements contained in a SMBL file.
 
 ## Usage
 1) Download the zip of the project or take a clone  
