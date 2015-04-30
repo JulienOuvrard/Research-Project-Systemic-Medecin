@@ -16,7 +16,17 @@ public class ResourceReader {
 	 * @throws IOException
 	 */
 	public String readPh(String arg) throws IOException{
-        return this.getClass().getResource("/kegg-compounds-alberty-ph"+arg+".rdf").toString();
+		String ph="";
+		if(arg.matches("([0-9]*)")){
+			ph=arg+"-0";
+		}else if(arg.matches("([0-9]*)-([0-9]*)")){
+			ph=arg;
+		}else{
+			String part1=arg.substring(0,1);
+			String part2=arg.substring(2,3);
+			ph=part1+"-"+part2;
+		}
+        	return this.getClass().getResource("/kegg-compounds-alberty-ph"+ph+".rdf").toString();
 	}
 	
 	/**
@@ -25,6 +35,6 @@ public class ResourceReader {
 	 * @throws IOException
 	 */
 	public String readCpd() throws IOException{
-        return this.getClass().getResource("/kegg.cpd.rdf").toString();
+        	return this.getClass().getResource("/kegg.cpd.rdf").toString();
 	}
 }
